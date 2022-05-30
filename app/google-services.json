@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "703044367290",
+    "firebase_url": "https://auth-57711-default-rtdb.firebaseio.com",
+    "project_id": "auth-57711",
+    "storage_bucket": "auth-57711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703044367290:android:3ae04e3f98e5e3f663a383",
+        "android_client_info": {
+          "package_name": "com.android.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyQv5mipW7YngRlQ1PSia7nqtuZbwufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703044367290:android:66e41f37489a28df63a383",
+        "android_client_info": {
+          "package_name": "com.example.car_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyQv5mipW7YngRlQ1PSia7nqtuZbwufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703044367290:android:92fead734275463a63a383",
+        "android_client_info": {
+          "package_name": "com.example.shoesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyQv5mipW7YngRlQ1PSia7nqtuZbwufc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703044367290-54r3q3lebqf0lo10ln8cdj7pmdijaiqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

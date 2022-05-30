@@ -1,0 +1,337 @@
+[
+  {
+    "name":"Nike",
+    "slogan":"Just Do It",
+    "delivery_charge": 5,
+    "image":"https://static.nike.com/a/images/f_jpg,q_auto:eco/61b4738b-e1e1-4786-8f6c-26aa0008e80b/swoosh-logo-black.png",
+
+    "hours":{
+      "Sunday":"11:00 - 23:00 ",
+      "Monday":"10:00 - 24:00 ",
+      "Tuesday":"10:00 - 24:00 ",
+      "Wednesday":"10:00 - 23:00 ",
+      "Thursday":"09:00 - 22:00 ",
+      "Friday":"11:00 - 23:00 ",
+      "Saturday":"10:00 - 02:00 "
+    },
+    "shoes": [
+      {
+        "name": "Nike Air Force 1 LE",
+        "price": 85.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/395c9482-302d-4887-9201-f350c51d900f/air-force-1-le-big-kids-shoes-3JNSvS.png"
+      },
+      {
+        "name": "Nike Air Max 270",
+        "price": 60.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/l0ygc6xwmb5esfiln14k/air-max-270-womens-shoes-Pgb94t.png"
+      },
+      {
+        "name": "Nike Renew Elevate 2",
+        "price": 59.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2591b3a0-1556-4281-98d7-352d31842f56/renew-elevate-2-basketball-shoes-v0S9N8.png"
+      },
+      {
+        "name": "Nike Air Force 1 ",
+        "price": 90.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/ae9706bb-54ad-4069-a708-4bc9d573f4c7/air-force-1-shadow-womens-shoes-kTgn9J.png"
+      },
+      {
+        "name": "Nike Air Max 90",
+        "price": 95.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/335921ae-b5a3-4261-b8dd-3068ce7e75a9/air-max-90-womens-shoes-2ZsM2w.png"
+      },
+      {
+        "name": "Nike Air Force 1 ",
+        "price": 88.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/421bc96b-0efb-4ac3-815b-0d7f8b64ba33/air-force-1-crater-womens-shoes-wzp7dt.png"
+      },
+      {
+        "name": "Air Jordan 5 Retro Low",
+        "price": 73.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/1a396557-bc3f-4ac1-9f9b-926227987cf0/air-jordan-5-retro-low-womens-shoes-1wNSVN.png"
+      },
+      {
+        "name": "Nike Pegasus ",
+        "price": 49.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/9e794e25-fdfd-4411-9fef-0c35f0f94931/pegasus-trail-3-womens-trail-running-shoes-gcsb5k.png"
+      },
+      {
+        "name": "Nike Blazer Mid '77 ",
+        "price": 94.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/a1c32188-b095-473a-b2e6-0c9b500877b4/blazer-mid-77-womens-shoes-WJHLDz.png"
+      },
+      {
+        "name": "Nike Air Zoom ",
+        "price": 62.00,
+        "url": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/b4d32076-b445-4af3-a93c-97673f09135d/air-zoom-superrep-3-womens-hiit-class-shoes-4p1pwz.png"
+      }
+    ]
+  },
+  {
+    "name":"Adidas",
+    "slogan":"Impossible Is Nothing",
+    "delivery_charge": 4,
+    "image":"https://pbs.twimg.com/profile_images/1387727047468929028/iptHUHoJ_400x400.jpg",
+
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 1:00"
+    },
+    "shoes": [
+      {
+        "name": "CLOUDFOAM PURE 2.0",
+        "price": 22.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8be0676348c04300a579ae14013777d5_9366/Cloudfoam_Pure_2.0_shoes_White_GY4485_01_standard.jpg"
+      },
+      {
+        "name": "PUREMOTION SUPER SHOES",
+        "price": 33.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c4dc5ab457134051b3c7adf9015f55fc_9366/Puremotion_Super_Shoes_White_GX0616_01_standard.jpg"
+      },
+      {
+        "name": "RACER TR212 TIMB SHOES ",
+        "price": 15.00,
+        "url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/fe4fad3feb6f4267bb16ad1d017ecf07_9366/Racer_TR21_Shoes_Grey_GZ8185_01_standard.jpg"
+      },
+      {
+        "name": "EQ21 RUN STRAP SHOES",
+        "price": 99.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b15eabcaf6024abea110ad6400f49001_9366/EQ21_Run_Shoes_Purple_GZ4075_01_standard.jpg"
+      },
+      {
+        "name": "SUPER SLEEK 3 SHOES",
+        "price": 83.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto,t_ivy/940f39771da44d74baacae6a0009d530_9366/Super_Sleek_3_Strap_Shoes_Beige_GY1777_01_standard.jpg"
+      },
+      {
+        "name": "ULTRABOOST 22 ",
+        "price": 74.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/77347182cf48430ebb7aae1400402b3b_9366/Ultraboost_22_Shoes_White_GX5573_01_standard.jpg"
+      },
+      {
+        "name": "DISNEY NIZZA PLATFORM ",
+        "price": 96.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/fae3e52ccebe49029351adf000a1b67a_9366/Disney_NMD_R1_Shoes_Black_GV7909_01_standard.jpg"
+      },
+      {
+        "name": "NIZZA PLATFORM SHOES",
+        "price": 85.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/d0ad2a140e2a47fea5a3ae1400160a65_9366/Disney_Nizza_Platform_Shoes_Pink_GV7943_01_standard.jpg"
+      },
+      {
+        "name": "DISNEY NMD_R1 SHOES",
+        "price": 53.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eec160da7d2f41d1bd6aabeb0009028d_9366/Nizza_Platform_Shoes_Black_FV5321_01_standard.jpg"
+      },
+      {
+        "name": "RACER TR21 SHOES",
+        "price": 68.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7059495d78b342448a41ade401408eb1_9366/Racer_TR21_Shoes_Black_GX0651_01_standard.jpg"
+      },
+      {
+        "name": "DAILY 3.0 SHOES",
+        "price": 97.00,
+        "url": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/00097f2522784e6d96b0aba400aa87a1_9366/Daily_3.0_Shoes_Grey_FW3270_01_standard.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Balenciaga",
+    "slogan":"Love Is For Everyone",
+    "delivery_charge": 5,
+    "image":"https://vectorseek.com/wp-content/uploads/2021/01/Balenciaga-Logo-Vector-730x730.jpg",
+
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 1:00"
+    },
+    "shoes": [
+      {
+        "name": "Loweri",
+        "price": 4.95,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1485677_5.jpg"
+      },
+      {
+        "name": "Astina",
+        "price": 3.59,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1453137_5.jpg"
+      },
+      {
+        "name": "Bitoro",
+        "price": 5.49,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1497569_5.jpg"
+      },
+      {
+        "name": "Hinata",
+        "price": 3.99,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1485995_3.jpg"
+      },
+      {
+        "name": "Kirito",
+        "price": 8.29,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1458879_5.jpg"
+      },
+      {
+        "name": "Proenza ",
+        "price": 6.99,
+        "url": "https://assetsprx.matchesfashion.com/img/product/1300/1455467_5.jpg"
+      }
+    ]
+  },
+
+  {
+    "name":"Reebok",
+    "slogan":"Be More Human",
+    "delivery_charge": 5,
+    "image":"https://i2.wp.com/elpoderdelasideas.com/wp-content/uploads/rebook-logo-2.jpg",
+
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 1:00"
+    },
+    "shoes": [
+      {
+        "name": "Eric Emanuel Club C 85",
+        "price": 44.00,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ee11661d626c4ac29234adcf015447b3_9366/Club_C_85_Vintage_Shoes_White_GX3683_04_standard.jpg"
+      },
+      {
+        "name": "Looney Tunes Club ",
+        "price": 87.00,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5b208d49975c44dc8953add70183ac49_9366/Looney_Tunes_Club_C_85_Shoes_Grey_GY4779_04_standard.jpg"
+      },
+      {
+        "name": "Walk Ultra 7 DMX MAX",
+        "price": 12.00,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0467862125df4559aa14ad51010d7d3a_9366/BAIT_X_Astro_Boy_Club_C_Stomper_Shoes_White_GY6039_04_standard.jpg"
+      },
+      {
+        "name": "Reebok Nano X2",
+        "price": 23.00,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/acb26ed48d484a51b6e9adc800d8a926_9366/Reebok_Nano_X2_Men's_Training_Shoes_Black_GW5148_04_standard.jpg"
+      },
+      {
+        "name": "Nano X1 Adventure ",
+        "price": 48.00,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9473d40ef634f7db7c0ae9201050207_9366/Nano_X1_Adventure_Men's_Shoes_Grey_GX1115_04_standard.jpg"
+      },
+      {
+        "name": "ZigWild Trail ",
+        "price": 56.99,
+        "url": "https://assets.reebok.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/731d28c07a3e4b43a3aeab1e01120d74_9366/ZigWild_Trail_6_Men's_Shoes_Black_FX1433_04_standard.jpg"
+      }
+    ]
+  },
+
+  {
+    "name":"Puma",
+    "slogan":"Unleash Your Wild Side",
+    "delivery_charge": 5,
+    "image":"https://brandwiki.ru/up/brands/product/190507_7304.jpg",
+
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 1:00"
+    },
+    "shoes": [
+      {
+        "name": "Suede Classic XXI",
+        "price": 99.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/381410/01/fnd/PNA/fmt/png"
+      },
+      {
+        "name": "Mayze Fade K21",
+        "price": 16.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/385389/01/fnd/PNA/fmt/png"
+      },
+      {
+        "name": "RS-X Highlighter",
+        "price": 25.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/384710/02/fnd/PNA/fmt/png"
+      },
+      {
+        "name": "Velocity NITRO",
+        "price": 93.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/376262/02/fnd/PNA/fmt/png"
+      },
+      {
+        "name": "H.ST.20 Leather",
+        "price": 78.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/194096/02/fnd/PNA/fmt/png"
+      },
+      {
+        "name": "Kosmo Rider KO",
+        "price": 66.00,
+        "url": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_900,h_900/global/384041/01/fnd/PNA/fmt/png"
+      }
+    ]
+  },
+  {
+    "name":"Fila",
+    "slogan":"The Measure Of Perfection",
+    "delivery_charge": 6,
+    "image":"https://softboxmarket.com/images/feature_variant/21/FILA-Logo-White-Sticker-_315373-front-US-min.jpg",
+
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 1:00"
+    },
+    "shoes": [
+      {
+        "name": "Oakmont Tr",
+        "price": 48.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dw6804fa54/images/ProductImages/1JM01687_010_01_e.jpg?sw=340&sh=510&sm=fit"
+      },
+      {
+        "name": "Ray Tracer",
+        "price": 73.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dwae4d1e5d/images/ProductImages/1RM01498_603_01_e.jpg?sw=340&sh=510&sm=fit"
+      },
+      {
+        "name": "Original Ten ",
+        "price": 57.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dwe668d481/images/ProductImages/5TM01771_119_01_e.jpg?sw=340&sh=510&sm=fit"
+      },
+      {
+        "name": "Disruptor 2",
+        "price": 21.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dw562dd004/images/ProductImages/5XM01763_500_01_e.jpg?sw=340&sh=510&sm=fit"
+      },
+      {
+        "name": " Grant Hill  ",
+        "price": 18.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dwc56c8dcc/images/ProductImages/5XM01765_125_01_e.jpg?sw=340&sh=510&sm=fit"
+      },
+      {
+        "name": "Gennaio",
+        "price": 66.00,
+        "url": "https://www.fila.com/dw/image/v2/AAEJ_PRD/on/demandware.static/-/Sites-FilaUSACatalogID/default/dw96083896/images/ProductImages/5CM01630_013_01_e.jpg?sw=340&sh=510&sm=fit"
+      }
+    ]
+  }
+]
